@@ -19,6 +19,8 @@ virar para a direita (Ctrl direito);
 virar para esquerda (Ctrl esquerdo);
 andar para frente (setas);
 pegar o ouro (A);
-atirar flecha (Q).
+atirar flecha (Q);
+sair da caverna (S).
 
 O guerreiro só anda para frente, portanto para virar para uma a direção desejada precisa estar virado de frente para a aquela direção.
+O guerreiro só sai da caverna caso esteja na casa inicial.
